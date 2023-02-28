@@ -15,3 +15,9 @@ To set **main** as the default branch name do:<br>
 
 ## create github repository
 ## clone your github repository into local git directory
+## installing Jenkins
+**type in browser "install jenkins"**<br>
+you will see something like:<br>
+**https://www.jenkins.io/doc/book/installing/linux/**<br>
+also you could click on Downloads and open next one page<br>
+**https://pkg.jenkins.io/debian-stable/**<br>
