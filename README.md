@@ -8,8 +8,8 @@ The first thing you should do when you install Git is to set your user name and 
 **$ git config --global user.email johndoe@example.com**<br>
 
 ## Set up your default branch name
-By default Git will create a branch called master when you create a new repository with git init. <br> From Git version 2.28 onwards, you can set a different name for the initial branch.<br>
-To set main as the default branch name do:<br>
+By default Git will create a branch called **master** when you create a new repository with ***git init***. <br> From Git version 2.28 onwards, you can set a different name for the initial branch.<br>
+To set **main** as the default branch name do:<br>
 
 **$ git config --global init.defaultBranch main** <br>
 
